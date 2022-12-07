@@ -8,7 +8,8 @@
 </div>
  
  <div>
-   ![renanolv7 GitHub stats](https://github-readme-stats.vercel.app/api?username=renanolv7&show_icons=true&theme=dracula)
+   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=renanolv7&show_icons=true&theme=dracula"/>
+   ![Renan GitHub stats]()
  </div>
   
 <div style="display: inline_block"><br>
