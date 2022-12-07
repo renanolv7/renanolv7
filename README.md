@@ -1,4 +1,4 @@
-### Olá, meu nome é Renan! 👋
+### Olá, meu nome é Renan. Seja bem vindo ao perfil! 👋
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
