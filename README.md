@@ -1,9 +1,9 @@
 ### Olá, meu nome é Renan. Seja bem vindo ao perfil! 👋
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/renanolv7">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renanolv7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanolv7&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanolv7&layout=compact&langs_count=7&theme=onedark"/>
 </div>
   
 <div style="display: inline_block"><br>
