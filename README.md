@@ -23,4 +23,4 @@
   
 ##
  
-  ![Snake animation](https://github.com/renanolv7/renanolv7/blob/output/github-contribution-grid-snake.svg)
+ 
