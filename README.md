@@ -1,5 +1,5 @@
 ### Olá, meu nome é Renan! 👋
-
+### Atualmente estou cursando meu segundo periodo no curso de Gestão da Tecnologia da Informação 💻
 
 <div align="center">
   <a href="https://github.com/renanolv7">
@@ -16,8 +16,9 @@
 
 </div>
 
- ##
-  
+##
+##
+
 <div>
    <a href = "mailto:reviniciusoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">       </a>
     <a href="https://www.linkedin.com/in/renanolv/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
