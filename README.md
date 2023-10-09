@@ -1,5 +1,4 @@
-# Olá, meu nome é Renan! 👋
-### Atualmente estou cursando meu segundo periodo no curso de Gestão da Tecnologia da Informação 💻
+## Olá, seja bem vindo ao meu perfil! 👋
 
 <br>
 
