@@ -2,7 +2,7 @@
 
 <br>
 
-### Constantemente estudando... 📚
+### Estudando... 📚
 ### Desenvolvimento web (HTML, CSS e JS)
 ### Java, POO e Design Patterns
 ### Python 
