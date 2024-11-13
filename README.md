@@ -3,11 +3,8 @@
 <br>
 
 ### Estudando... 📚
-### Desenvolvimento web (HTML, CSS e JS)
-### Java, POO e Design Patterns
-### Python 
+### Desenvolvimento web (HTML, CSS (Sass), JS e REACT)
 
-<br>
 <br>
 
 <div <div align="center">
