@@ -3,7 +3,7 @@
 <br>
 
 ### Estudando... 📚
-### Desenvolvimento web (HTML, CSS (Sass), JS e REACT)
+### Desenvolvimento web (HTML, CSS, Sass, JS e REACT)
 
 <br>
 
