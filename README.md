@@ -2,11 +2,6 @@
 
 <br>
 
-### Estudando... 📚
-### Desenvolvimento web (HTML, CSS, Sass, JS e REACT)
-
-<br>
-
 <div <div align="center">
     <b>Informações</b>
 </div>
