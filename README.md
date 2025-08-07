@@ -7,6 +7,8 @@
 ### 👨‍💻 Sobre mim
 Sou **Renan**, um desenvolvedor **Java Backend** em formação com experiência em **Spring Boot**, **JPA/Hibernate** e bancos de dados **MySQL**. Atualmente, estou focado em aprimorar minhas habilidades com o objetivo de construir sistemas robustos e eficientes. Minha paixão é criar soluções que transformam ideias em realidade, e estou sempre em busca de novos desafios e aprendizados.
 
+<br>
+
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
@@ -34,6 +36,8 @@ Sou **Renan**, um desenvolvedor **Java Backend** em formação com experiência 
   <img src="https://github-readme-stats.vercel.app/api?username=renanolv7&show_icons=true&theme=midnight-purple" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanolv7&layout=compact&langs_count=7&theme=midnight-purple" alt="Principais Linguagens" />
 </div>
+
+<br>
 
 ### 📱 Conecte-se comigo
 
