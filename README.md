@@ -22,7 +22,7 @@ Desenvolvedor em formação com experiência em **Spring Boot**, **JPA/Hibernate
 
 ### Projetos Recentes
 
-- **[Nome do Projeto 1](https://github.com/renanolv7/project-controle-ponto)** - Projeto Full Stack com Back End em Java + Spring Boot e Flutter no Front End
+- **[Projeto Controle Ponto](https://github.com/renanolv7/project-controle-ponto)** - Projeto Full Stack com Back End em Java + Spring Boot e Flutter no Front End
   
 ---
 
