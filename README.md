@@ -26,15 +26,6 @@ Desenvolvedor em formação com experiência em **Spring Boot**, **JPA/Hibernate
   
 ---
 
-### Estatísticas do GitHub
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=renanolv7&show_icons=true&theme=midnight-purple" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanolv7&layout=compact&langs_count=7&theme=midnight-purple" alt="Principais Linguagens" />
-</div>
-
---- 
-
 ### Conecte-se comigo
 
 <div align="left">
